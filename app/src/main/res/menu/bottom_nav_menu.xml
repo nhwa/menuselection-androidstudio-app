@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Home"
+        android:icon="@drawable/what"
+        android:title="@string/title_Home" />
+
+    <item
+        android:id="@+id/navigation_Place"
+        android:icon="@drawable/dish"
+        android:title="@string/title_Place" />
+
+    <item
+        android:id="@+id/navigation_Near"
+        android:icon="@drawable/location"
+        android:title="@string/title_Near" />
+
+    <item
+        android:id="@+id/navigation_My"
+        android:icon="@drawable/list"
+        android:title="@string/title_My" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/setting"
+        android:title="@string/title_setting" />
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">밥뭐먹잰</string>
+    <string name="title_Home">뭐먹지</string>
+    <string name="title_Place">어디가지</string>
+    <string name="title_Near">내근처</string>
+    <string name="title_My">내맛집</string>
+    <string name="title_setting">설정</string>
+    <!--// 카카오 앱 키-->
+    <string name="kakao_app_key">263ce81b3b090dedd56ad573757d1009</string>
+</resources>
